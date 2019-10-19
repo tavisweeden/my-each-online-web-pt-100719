@@ -5,4 +5,5 @@ def my_each (array)
   ind += 1
 
 end
+array
 end
