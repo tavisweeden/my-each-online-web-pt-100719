@@ -1,6 +1,7 @@
 def my_each (array)
-  while array.length > 0
-  yield array[] 
+  ind = 0
+  while ind < array.length
+  yield 
 
 end
 end
